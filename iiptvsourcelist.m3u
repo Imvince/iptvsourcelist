@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="No group",CCTV-5HD
-CCTV-5HD,http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
-
+#EXTINF:101 group-title="No group",CCTV-5HD
+http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
 
 
 
